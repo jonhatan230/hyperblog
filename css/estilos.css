@@ -7,7 +7,7 @@ body{
     padding: 0%;
     font-size: 16px;
 }
-.container{
+#container{
     width: 70%;
     padding: 1em;
     text-align: left;
@@ -15,6 +15,14 @@ body{
     margin: 0 auto;
 }
 
-.cointainer h1{
+#cointainer h1{
     font-size: 70px;
+}
+#cabecera{
+    width: 700px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    background-color: rgb(65, 67, 213);
+    color: aliceblue;
 }
